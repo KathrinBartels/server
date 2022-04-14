@@ -1,0 +1,32 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "name": "Dein Online-Kurs: Geburtsvorbereitung PREMIUM",
+            "img": "https://images.ctfassets.net/95mgs1g290h3/3rlqPUORtu25E8dd6F2mH8/d87ae4464232202430dea96a8959f308/GebV_hero_desk_1.jpg",
+            "trainer": "Judith Herrmann, Sabine Boettcher-Jensen",
+            "desc": "Deine Schwangerschaft ist eine magische Zeit voller Emotion und neuer Erlebnisse. Eines der aufregendsten Ereignisse deines Lebens steht kurz bevor: Du schenkst ein Leben. Da ist es ganz normal, dass sich ein paar Sorgen und Fragen bei dir einschleichen. Mit unserem Geburtsvorbereitungskurs bereiten wir dich ganzheitlich auf deinen Geburtsprozess vor und unterstützen dich dabei, sicher und mit einer Menge Vertrauen in deinen Körper eigene, wichtige Entscheidungen zu treffen. Denn du und dein Wohlbefinden stehen stets im Vordergrund! Lerne in einem Umfeld, in dem du dich garantiert wohlfühlst und nutze die individuellen Erfahrungen unserer Hebammen."
+        },
+        {
+            "id": 2,
+            "name": "Online-Kurs: Beckenboden-Training in der Schwangerschaft",
+            "img": "https://images.ctfassets.net/95mgs1g290h3/44JAh6ovhKeUgfeVj45nOc/1b5e8359655a84a8760cec1dcc61b1bf/Beckenboden_hero_desk_1.jpg",
+            "trainer": "Kathrin Frings",
+            "desc": "Wächst das kleine Wunder in dir heran, drückt auch zunehmend mehr Gewicht auf dein Becken – das kann ganz schön anstrengend sein. Denn der Beckenboden trägt sowohl dein Baby als auch deine Organe. Eine gestärke Beckenbodenmuskulatur unterstützt deinen Mamakörper und hilft dabei, den neuen Belastungen stand zu halten. So fühlst du dich nicht nur ganzheitlich zentrierter und gefestigter, sondern kannst auch Inkontinenz vor und nach der Geburt vorbeugen. Die Physiotherapeutin und Hebamme Kathrin zeigt dir, wie der Beckenboden funktioniert und wie du durch Atmung, Anspannen und Entspannen diesen sogar im Alltag stärken und unterstützen kannst. Ein Must-have für eine starke Mitte!"
+        },
+        {
+            "id": 3,
+            "name": "Online-Kurs: Glücksmomente Meditation",
+            "img": "https://images.ctfassets.net/95mgs1g290h3/79oGy7szLd8iYhx06IBeJv/b48f15921379511e641b12c2f82fc10d/Meditation_hero_desk_1.jpg",
+            "trainer": "Heike Jürgens",
+            "desc": "Schließe deine Augen und lass dich von unserer Kinderkrankenschwester Heike in die Welt der Entspannung entführen und finde Ruhe in deiner inneren Mitte. Meditation hilft dir dabei, deine Gedanken frei schweben zu lassen und dich mit sanften Atemübungen in einen Moment der Stille zu zaubern. Sei ganz bei dir und verbinde dich mit deinem Baby im Bauch - du wirst spüren, wie gut sich die kleinen Pausen anfühlen werden. Lerne so eine ganz neue Art der Zweisamkeit kennen!"
+        },
+        {
+            "id": 4,
+            "name": "Online-Kurs: Babymassage",
+            "img": "https://images.ctfassets.net/95mgs1g290h3/7f2GhkqF0ETLAPpYOBaKKw/ed8523ef3da8f7bdac7c7f46a6e99a4e/Babymassage_hero_desk_1.jpg",
+            "trainer": "Andrea Unterforsthuber",
+            "desc": "Schenke deinem Baby Liebe & Geborgenheit - Eine Massage kann Wunder bewirken - nicht nur bei uns Erwachsenen! Jedes Baby liebt die Wärme und Nähe zu den Eltern, besonders zärtliche Streicheleinheiten. Das zeigt deinem Baby, wie sehr du es liebst und schenkt ihm zusätzliche Liebe. Aber Massagen können sich auch positiv auf die körperliche Gesundheit auswirken: Die Bauch- und Kolikmassage kann dabei helfen, Schmerzen zu lindern und zu beruhigen. Aber auch als kleine Einschlafhilfe zaubert eine sanfte Massage deinem Baby Entspannung. Entwickelt ein neues Lieblingsritual und lernt euer Baby immer besser kennen, während ihr gleichzeitig eure Eltern-Kind-Bindung steigt."
+        }
+    ]
+}
