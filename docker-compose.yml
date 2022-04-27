@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  brain-db:
+    image: postgres:13
+    ports:
+      - 5436:5432
+    environment:
+      POSTGRES_USER: Brain
+      POSTGRES_PASSWORD: brainsafe
+      POSTGRES_DB: brain
+  brain-test-db:
+    image: postgres:13
+    ports:
+      - 5437:5432
+    environment:
+      POSTGRES_USER: Brain
+      POSTGRES_PASSWORD: brainsafe
+      POSTGRES_DB: brain
